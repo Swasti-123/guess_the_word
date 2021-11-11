@@ -1,0 +1,42 @@
+body
+{
+	background: lightblue;
+}
+
+	.log-in1 , .log-in2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#input1 , #input2
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#p1_name, #p2_name{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#word{
+	width: 60%;
+}
+
+
+#hint{
+	  letter-spacing: 5px;
+  }
+
+#output{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10x;
+	float:none;
+	text-align: left;
+}
